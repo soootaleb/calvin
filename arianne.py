@@ -1,1 +1,3 @@
-exit(0)
+import tensorflow as tf
+
+print(tf)
