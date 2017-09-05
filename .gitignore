@@ -1,0 +1,22 @@
+# General
+*.pyc
+*.log
+.idea
+*.db
+requests.http
+
+# IDE
+.vscode/
+env/
+
+# Django
+/static/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Javascript 
+node_modules/
+dist/
